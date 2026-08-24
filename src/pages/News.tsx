@@ -49,9 +49,9 @@ export default function News() {
     <main className="flex-grow pt-32 pb-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full">
       {/* Hero Section */}
       <header className="mb-16 text-center md:text-left">
-        <h1 className="text-4xl md:text-5xl font-extrabold text-on-surface mb-4">Warta Kampung 003</h1>
+        <h1 className="text-4xl md:text-5xl font-extrabold text-on-surface mb-4">Warga Kampung 003</h1>
         <p className="text-lg text-on-surface-variant max-w-2xl">
-          Latest updates, announcements, and stories cultivating our community spirit in Kampung Utan.
+          Kabar terbaru, pengumuman, dan informasi terkini untuk menumbuhkan semangat kebersamaan warga di Kampung Utan
         </p>
       </header>
 
