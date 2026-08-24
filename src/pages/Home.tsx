@@ -148,7 +148,7 @@ export default function Home() {
               <img 
                 alt="Gerbang Jalan Swadaya" 
                 className="w-full h-full object-cover rounded-pebble" 
-                src="public/images/DSC_0953.JPG"
+                src="/images/DSC_0953.JPG"
                 referrerPolicy="no-referrer"
               />
             </div>
