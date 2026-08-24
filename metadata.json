@@ -1,0 +1,8 @@
+{
+  "name": "SIPAKAR RW 003",
+  "description": "Sistem Informasi, Profil, dan Aduan Kampung Utan RW 003. Slogan: RW 003, Maju dan Berkembang!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
