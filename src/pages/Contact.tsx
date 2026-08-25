@@ -43,7 +43,7 @@ export default function Contact() {
                   <h3 className="text-xl font-bold text-on-surface mb-2">Sekretariat RW 003</h3>
                   <p className="text-on-surface-variant leading-relaxed text-sm sm:text-base">
                     Balai Warga RW 003 Kampung Utan<br />
-                    Kecamatan Ciputat Timur, Kota Tangerang Selatan<br />
+                    Jl. Swadaya, Pd. Pucung, Kec. Pd. Aren, Kota Tangerang Selatan<br />
                     Banten (Menaungi RT 001 s.d RT 005)
                   </p>
                 </div>

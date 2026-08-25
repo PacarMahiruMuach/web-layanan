@@ -44,7 +44,7 @@ export default function Sejarah() {
         {/* Story Content */}
         <article className="bg-surface-container-lowest rounded-3xl p-6 sm:p-10 md:p-12 shadow-ambient border border-outline-variant/20 space-y-6 sm:space-y-8 text-on-surface-variant leading-relaxed text-base sm:text-lg">
           <div className="flex items-center gap-3 pb-4 border-b border-outline-variant/30 text-xs sm:text-sm text-outline font-medium">
-            <span className="flex items-center gap-1.5"><MapPin size={15} /> Ciputat Timur, Tangerang Selatan</span>
+            <span className="flex items-center gap-1.5"><MapPin size={15} /> Jl. Swadaya, Pd. Pucung, Kec. Pd. Aren, Kota Tangerang Selatan, Banten</span>
             <span>•</span>
             <span>Menaungi 5 Wilayah RT (RT 001 - RT 005)</span>
           </div>
