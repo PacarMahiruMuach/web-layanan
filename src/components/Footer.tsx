@@ -22,7 +22,7 @@ export default function Footer() {
             </p>
             <div className="flex items-start gap-2 text-white/80 text-sm mt-1">
               <MapPin size={18} className="shrink-0 mt-0.5 text-white/90" />
-              <p>Jl. Swadaya, Pd. Pucung, Kec. Pd. Aren, Kota Tangerang Selatan, Banten (Menaungi RT 001 - RT 005)</p>
+              <p>Jl.Swadaya, Pd. Pucung, Kec. Pd. Aren, Kota Tangerang Selatan, Banten (Menaungi RT 001 - RT 005)</p>
             </div>
           </div>
 
